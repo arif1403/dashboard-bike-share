@@ -12,3 +12,8 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit
 streamlit run app.py
 ```
 
+## Deployment Streamlit Cloud
+```
+https://dashboardbs.streamlit.app/
+```
+
