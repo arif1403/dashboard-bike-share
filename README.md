@@ -1,6 +1,7 @@
 # Arif Munandar Collection Dashboard ✨
 
 ![image](https://github.com/arif1403/dashboard-bike-share/assets/58334129/675be830-449a-4a92-9341-df4936ce3bea)
+![image](https://github.com/arif1403/dashboard-bike-share/assets/58334129/76f58af3-26eb-4d61-898d-1d9821b45407)
 
 
 ## Setup environment
